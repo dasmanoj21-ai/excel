@@ -1,0 +1,1 @@
+This Dashboard Presenting ,Product Wise Sale,Country wise Sale,Product Delivery Status,company wise sale and Date wise high order- Visualize with chart like,Bar Chart,Line chart,Pie Chart and uses slicer .
